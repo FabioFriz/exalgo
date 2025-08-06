@@ -15,6 +15,7 @@
 *.lot
 *.out
 *.run.xml
+*.synctex.gz
 *.toc
 
 ClassicThesis.pdf
